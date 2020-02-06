@@ -15,7 +15,7 @@ int solution(vector<int> &A) {
 }
 
 int main() {
-    vector<int> A = {2,4,6,5,3,7};
+    vector<int> A = {1,2,3,5,6};
     printf("Solutia este %d", solution(A));
     return 0;
 }

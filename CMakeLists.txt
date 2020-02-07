@@ -14,6 +14,7 @@ add_executable(OddOccurencesInArray "${CMAKE_CURRENT_SOURCE_DIR}/src/oddOccurenc
 add_executable(PermMissElem "${CMAKE_CURRENT_SOURCE_DIR}/src/permMissElem.cpp")
 add_executable(TapeEquilibrium "${CMAKE_CURRENT_SOURCE_DIR}/src/tapeEquilibrium.cpp")
 add_executable(FrogJump "${CMAKE_CURRENT_SOURCE_DIR}/src/frogJump.cpp")
+add_executable(FrogRiverOne "${CMAKE_CURRENT_SOURCE_DIR}/src/frogRiverOne.cpp")
 
 
 enable_testing()
